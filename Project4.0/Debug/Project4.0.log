@@ -1,0 +1,17 @@
+﻿E:\virsual studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project4.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Body.cpp
+  BodyManager.cpp
+  Console.cpp
+f:\project6.0\project5.0\project4.0\console.cpp(44): warning C4101: “cNumRead”: 未引用的局部变量
+f:\project6.0\project5.0\project4.0\console.cpp(43): warning C4101: “irInBuf”: 未引用的局部变量
+  pch.cpp
+  projet.cpp
+f:\project6.0\project5.0\project4.0\projet.cpp(21): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\project6.0\project5.0\project4.0\projet.cpp(21): warning C4309: “初始化”: 截断常量值
+f:\project6.0\project5.0\project4.0\projet.cpp(24): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\project6.0\project5.0\project4.0\projet.cpp(24): warning C4309: “初始化”: 截断常量值
+f:\project6.0\project5.0\project4.0\projet.cpp(39): warning C4838: 从“int”转换到“char”需要收缩转换
+f:\project6.0\project5.0\project4.0\projet.cpp(39): warning C4309: “初始化”: 截断常量值
+  正在生成代码...
+f:\project6.0\project5.0\project4.0\bodymanager.cpp(140): warning C4715: “BodyManager::collide”: 不是所有的控件路径都返回值
+  Project4.0.vcxproj -> F:\Project6.0\Project5.0\Debug\Project Final.exe
